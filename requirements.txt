@@ -1,0 +1,6 @@
+pandas
+ydata_profiling
+sweetviz
+dtale
+chardet
+lxml
