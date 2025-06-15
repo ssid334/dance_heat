@@ -4,3 +4,4 @@ sweetviz
 dtale
 chardet
 lxml
+tqdm
