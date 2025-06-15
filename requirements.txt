@@ -5,3 +5,4 @@ dtale
 chardet
 lxml
 tqdm
+seaborn
